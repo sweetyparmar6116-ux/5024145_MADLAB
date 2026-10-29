@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// MADL Task 5: Layout widgets and responsive dashboard. B3 date: 25/08/2026.
+// MADL Task 5: Layout widgets and responsive dashboard..
 void main() => runApp(const MaterialApp(debugShowCheckedModeBanner: false, home: DashboardPage()));
 
 class DashboardPage extends StatelessWidget {
