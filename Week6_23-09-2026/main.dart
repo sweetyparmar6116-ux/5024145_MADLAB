@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 // MADL Task 7: Navigation, named routes and gesture detection.
-// B3 teaching-plan date: 23/09/2026.
 
 void main() => runApp(const NavigationGesturesApp());
 
