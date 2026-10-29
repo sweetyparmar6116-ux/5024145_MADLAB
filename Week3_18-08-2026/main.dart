@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// MADL Task 4: Interactive form using Form and validation. B3 date: 18/08/2026.
+// MADL Task 4: Interactive form using Form and validation..
 void main() => runApp(const MaterialApp(debugShowCheckedModeBanner: false, home: RegistrationPage()));
 
 class RegistrationPage extends StatefulWidget {
