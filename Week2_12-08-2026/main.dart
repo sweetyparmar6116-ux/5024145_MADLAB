@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// MADL Task 3: Common Flutter widgets. B3 date: 12/08/2026.
+// MADL Task 3: Common Flutter widgets..
 void main() => runApp(const CommonWidgetsApp());
 
 class CommonWidgetsApp extends StatefulWidget {
