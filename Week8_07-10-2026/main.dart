@@ -3,7 +3,6 @@ import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 
 // MADL Task 9: Connect Flutter UI with Firebase Realtime Database.
-// B3 teaching-plan date: 07/10/2026.
 // Add firebase_core and firebase_database dependencies, configure Firebase for your app,
 // and replace the database URL below with your Firebase Realtime Database URL.
 
