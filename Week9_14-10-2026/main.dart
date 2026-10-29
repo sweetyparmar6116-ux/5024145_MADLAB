@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 // MADL Task 10: Production-readiness checklist for a Flutter Android app.
-// B3 teaching-plan date: 14/10/2026.
 // This practical UI organizes test, debug, release-build, and deployment checks.
 
 void main() => runApp(const ReleaseChecklistApp());
