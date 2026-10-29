@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 
 // MADL Task 6: Include icons, images and charts in a Flutter app.
-// B3 teaching-plan date: 02/09/2026.
 // Dependency required in pubspec.yaml: fl_chart: ^1.0.0
 
 void main() => runApp(const VisualDashboardApp());
