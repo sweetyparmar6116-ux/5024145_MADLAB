@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// MADL Task 2: Basic Hello World app. B3 date: 05/08/2026.
+// MADL Task 2: Basic Hello World app..
 void main() => runApp(const MaterialApp(
   debugShowCheckedModeBanner: false,
   home: Scaffold(
